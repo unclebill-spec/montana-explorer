@@ -1,0 +1,1 @@
+KYXD("_b-fremont-county-id",{"school":{"bid-s160019201125":{"addr":"4133 Shoshone Avenue","phone":"(208) 558-4727","grades":"KG–05","level":"Elementary","nces":"160019201125","levels":{},"bst":"ID","bmi":7.3,"bco":"Fremont County, ID","src":"NCES Common Core of Data 2024-2025 (school directory; no state grade on this map)"}}});

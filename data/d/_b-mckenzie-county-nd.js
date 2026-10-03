@@ -1,0 +1,1 @@
+KYXD("_b-mckenzie-county-nd",{"school":{"bnd-s380981000305":{"addr":"1812 Horse Creek Rd","phone":"(701) 828-3080","grades":"KG–08","level":"Elementary","nces":"380981000305","levels":{},"bst":"ND","bmi":6.5,"bco":"McKenzie County, ND","src":"NCES Common Core of Data 2024-2025 (school directory; no state grade on this map)"}}});

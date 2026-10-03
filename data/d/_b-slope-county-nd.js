@@ -1,0 +1,1 @@
+KYXD("_b-slope-county-nd",{"school":{"bnd-s381212000400":{"addr":"301 2Nd Ave Se","phone":"(701) 279-5521","grades":"PK–08","level":"Elementary","nces":"381212000400","levels":{},"bst":"ND","bmi":6.1,"bco":"Slope County, ND","src":"NCES Common Core of Data 2024-2025 (school directory; no state grade on this map)"}}});
