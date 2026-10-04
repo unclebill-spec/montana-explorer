@@ -1,0 +1,1 @@
+KYXD("_b-idaho-county-id",{"activity":{"bid-lolo-trail-idaho":{"src":"http://www.wikidata.org/entity/Q89010796","th":{"u":"img/b/id/thumbs/activity/lolo-trail-idaho.jpg","k":"satellite"},"bst":"ID","bmi":0.1,"bco":"Idaho County, ID"}}});
