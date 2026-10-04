@@ -32,3 +32,7 @@ Montana and Wyoming share ONE code base: every script in `scripts/` is identical
 - Trauma levels: Billings Clinic + St. Vincent Level I, Benefis + St. Patrick Level II; Logan Health Kalispell's level is ambiguous in the sources. Sacred Heart Spokane is missing from CMS border data.
 - Peaks list lacks Electric Peak, Trapper Peak, Sacagawea, Hyalite, Jumbo, Square Butte, Sleeping Giant (no article/coordinates). No ticket price: Bridger Bowl, Blacktail, Showdown, Teton Pass. Near-hospital homes thin (60).
 
+
+### 50+ acre lots under $250k (Oct 4, 2026 ~10:31 AM ET, big-land worker)
+- Black-star layer `big-land` (50+ ac, < $250k, land or home), "50+ ac" button, Map key row, card; shared code from the KY explorer (see KY explorer/AGENTS.md, same date). build.py (marker BIGLAND) merges `/workspace/montana/bigland.json`.
+- Refresh: `/usr/bin/python3 /workspace/bigland/bigland.py MT --refresh` before build/publish (keeps the old file if Zillow blocks). Notes: /workspace/bigland/PROGRESS.md.
