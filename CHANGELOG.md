@@ -1,6 +1,9 @@
 # Montana Explorer — change log
 
 Newest first. Times are ET.
+## 2026-10-07
+- 14:52 ET: Listings refresh: +8 new, -7 sold/off-market, 3 price drops; 50+ ac 22 -> 21 (Hot Springs lot sold); 233 perm RN jobs (2026-10-07)
+
 ## 2026-10-05
 - 23:09 ET: Add North Carolina to the state switcher (new North Carolina Explorer); shared Anna code: per-state wording + estimated-pay labels
 - 21:06 ET: Permanent RN jobs: cardiac cath lab postings are now hidden like the other cath lab jobs. 1 job (Logan Health 'RN | Cardiac Cath Lab') were filed under step-down because the word 'cardiac' matched before 'cath'; any job whose title or unit names the cath lab is now Cath lab / IR. Cath recovery, cath-lab step-down and holding jobs stay in.
