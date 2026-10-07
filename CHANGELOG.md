@@ -2,6 +2,7 @@
 
 Newest first. Times are ET.
 ## 2026-10-07
+- 17:50 ET: Target stores layer: every Target in the state (7, Target's own store directory) (no Target within 15 mi over the line). Small red bullseye pins (grouped, faint dots when zoomed out), right-side 'Target' button, store cards with address, phone, regular hours and services, share links #target=<store number>, and the nearest Target (OSRM free-flow drive time) in every property card's Nearby section.
 - 14:52 ET: Listings refresh: +8 new, -7 sold/off-market, 3 price drops; 50+ ac 22 -> 21 (Hot Springs lot sold); 233 perm RN jobs (2026-10-07)
 
 ## 2026-10-05
