@@ -1,6 +1,9 @@
 # Montana Explorer — change log
 
 Newest first. Times are ET.
+## 2026-10-11
+- 08:51 ET: Listings refresh r3: +1 new, -2 sold/off-market, 1 price drops, 1 price changes; bigland/cavefalls/perm refreshed (r3-2026-10-11)
+
 ## 2026-10-10
 - 02:43 ET: Listings refresh r2: +6 new, -8 sold/off-market, 9 price drops, 9 price changes; bigland/cavefalls/perm refreshed (r2-2026-10-10)
 
